@@ -1,6 +1,4 @@
 #include <iostream>
-// Carlos Guerrero
-// COSC 
 
 int main() {}
     std::cout << "Ginz Ramen Shop" << std::endl;
