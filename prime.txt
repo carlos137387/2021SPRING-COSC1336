@@ -1,0 +1,30 @@
+#imclude <iostream>
+
+using namespace std;
+
+int main()
+{
+    int x;
+
+    cout << "Give a number:" ; cin >> x;
+
+    cout << isprime(x);
+
+    return 0;
+}
+
+bool isprime (int number)
+{
+
+    if (number == 0 || number == 1) {
+        return true;
+    }
+
+    int divisor
+
+    for (divisor = number/2; numberdivsor!= 0; --divisor) {
+        ;
+    }
+
+    return divisor == 1;
+}        
